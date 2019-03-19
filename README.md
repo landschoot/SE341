@@ -2,8 +2,9 @@
 # Install App's Dependencies
 
 
-```
+
 ### Basic usage
+```
 $ npm install
 # dev server  with hot reload at http://localhost:3000
 $ npm start
